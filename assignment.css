@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(178, 158, 132);
+}
+
+#box-1{
+    background-color:white;
+    height: 150px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+main{
+    background-color: white;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+
+.hero{
+    height: 300px;
+    background-color: #FFF0E4;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-top: 80px;
+
+}
+img{
+    height: 90px;
+    font-size: 40px;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+.vishal{
+    padding-top: 70px;
+}
+#box-2{
+    background-color: white;
+    height: 400px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+
+}
+
+#head{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: red;
+    padding-top: 20px;
+}
+#head-1{
+    color: rgb(94, 94, 135);
+    padding-top: 20px;
+}
+#para1{
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+
+
+}
+p{
+    padding-left: 120px;
+    
+}
+#para{
+    color: rgb(72, 72, 114);
+    
+}
+a{
+    color: red;
+    padding-left: 20px;
+}
+#box-3{
+    background-color: white;
+    height: 300px;
+    margin-top: 130px;
+    
+
+}
+#heading{
+    background-color: rgb(49, 49, 56);
+    color: white;
+    
+}
+#text{
+    color: white;
+}
+#register{
+    background-color: white;
+    height: 700px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+   margin-top: 60px;
+}
+#username{
+    padding-right: 1000px;
+    border-radius: 6px;
+    height: 30px;
+}
+#email{
+    padding-right: 1000px;
+    border-radius: 6px;
+    height: 30px;
+}
+#password{
+    padding-right: 1000px;
+    border-radius: 6px;
+    height: 30px;
+}
+#option{
+    padding-right: 1300px;
+    border-radius: 6px;
+    height: 30px;
+}
+    
+#b{
+    background-color: blue;
+    color: white;
+
+}
